@@ -10,6 +10,13 @@ The final trained model is saved using Joblib and can be used for deployment.
 
 ---
 
+## 🚀 Live Demo
+
+🔗 **Try the Streamlit App:**  
+[🍷 Wine Quality Prediction App](https://winequalitypredictionml-jriu4cbywalbbtxsrhzkei.streamlit.app/)
+
+---
+
 ## 🎯 Problem Statement
 
 The objective of this project is to predict wine quality based on its chemical properties.
